@@ -1,2 +1,0 @@
-# Plant_disease_dataset
-custom_plant_disease_dataset
